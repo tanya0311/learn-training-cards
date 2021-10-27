@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learn-training-cards/static/css/main.55a84114.chunk.css",
+    "main.js": "/learn-training-cards/static/js/main.26a1bf3f.chunk.js",
+    "main.js.map": "/learn-training-cards/static/js/main.26a1bf3f.chunk.js.map",
+    "runtime-main.js": "/learn-training-cards/static/js/runtime-main.d5780172.js",
+    "runtime-main.js.map": "/learn-training-cards/static/js/runtime-main.d5780172.js.map",
+    "static/js/2.edcd4cbd.chunk.js": "/learn-training-cards/static/js/2.edcd4cbd.chunk.js",
+    "static/js/2.edcd4cbd.chunk.js.map": "/learn-training-cards/static/js/2.edcd4cbd.chunk.js.map",
+    "static/js/3.ffd2021e.chunk.js": "/learn-training-cards/static/js/3.ffd2021e.chunk.js",
+    "static/js/3.ffd2021e.chunk.js.map": "/learn-training-cards/static/js/3.ffd2021e.chunk.js.map",
+    "index.html": "/learn-training-cards/index.html",
+    "static/css/main.55a84114.chunk.css.map": "/learn-training-cards/static/css/main.55a84114.chunk.css.map",
+    "static/js/2.edcd4cbd.chunk.js.LICENSE.txt": "/learn-training-cards/static/js/2.edcd4cbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5780172.js",
+    "static/js/2.edcd4cbd.chunk.js",
+    "static/css/main.55a84114.chunk.css",
+    "static/js/main.26a1bf3f.chunk.js"
+  ]
+}
